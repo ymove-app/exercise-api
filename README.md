@@ -6,7 +6,7 @@ On the same key: workout generation, multi-week training programs and AI posture
 
 - **Docs:** [ymove.app/exercise-api/docs](https://ymove.app/exercise-api/docs)
 - **OpenAPI spec:** [exercise-api.ymove.app/api/v2/openapi.json](https://exercise-api.ymove.app/api/v2/openapi.json)
-- **Get an API key:** [ymove.app/exercise-api/signup](https://ymove.app/exercise-api/signup) (trial key in minutes)
+- **Get an API key:** [ymove.app/exercise-api](https://ymove.app/exercise-api) (trial key in minutes)
 
 ## Quickstart
 
