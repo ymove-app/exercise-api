@@ -25,7 +25,7 @@ Need more? The full library has 2,005+ exercises with 2,600+ HD videos through t
 | [kettlebell-romanian-deadlift.mp4](kettlebell-romanian-deadlift.mp4) | Kettlebell Romanian Deadlift | Hamstrings | Kettlebell | Studio, white background |
 | [goblet-squat-with-kettlebell.mp4](goblet-squat-with-kettlebell.mp4) | Goblet Squat with Kettlebell | Quads | Kettlebell | Studio, white background |
 | [cable-crossover-mid-b24dfe.mp4](cable-crossover-mid-b24dfe.mp4) | Cable Crossover (Mid) | Chest | Cable | Studio, white background |
-| [lying-cable-leg-curl.mp4](lying-cable-leg-curl.mp4) | Lying Cable Leg Curl | Quads | Cable | Studio, white background |
+| [lying-cable-leg-curl.mp4](lying-cable-leg-curl.mp4) | Lying Cable Leg Curl | Hamstrings | Cable | Studio, white background |
 | [cable-woodchop-high-to-low-842bc7.mp4](cable-woodchop-high-to-low-842bc7.mp4) | Cable Woodchop (High to Low) | Core | Cable | Studio, white background |
 | [lat-pulldown.mp4](lat-pulldown.mp4) | Lat Pulldown | Back | Cable | Real gym |
 | [seated-cable-row-close-v-bar-bccf4f.mp4](seated-cable-row-close-v-bar-bccf4f.mp4) | Seated Cable Row close V bar | Back | Cable | Real gym |

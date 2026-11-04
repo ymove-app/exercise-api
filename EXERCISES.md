@@ -2,7 +2,7 @@
 
 Every exercise in the [Your Move Exercise API](https://ymove.app/exercise-api), grouped by main muscle group. Each one has an HD video filmed with trainers and physiotherapists (no AI, no GIFs), thumbnails, instructions and muscle data. Most requested: [TOP-100.md](TOP-100.md).
 
-[Arms (2)](#arms) | [Back (241)](#back) | [Biceps (85)](#biceps) | [Calves (28)](#calves) | [Cardio (53)](#cardio) | [Chest (180)](#chest) | [Core (352)](#core) | [Face (5)](#face) | [Forearms (10)](#forearms) | [Full body (142)](#full-body) | [Glutes (173)](#glutes) | [Hamstrings (53)](#hamstrings) | [Hips (25)](#hips) | [Legs (192)](#legs) | [Neck (13)](#neck) | [Quads (150)](#quads) | [Shoulders (201)](#shoulders) | [Triceps (72)](#triceps)
+[Arms (2)](#arms) | [Back (241)](#back) | [Biceps (85)](#biceps) | [Calves (28)](#calves) | [Cardio (53)](#cardio) | [Chest (180)](#chest) | [Core (352)](#core) | [Face (5)](#face) | [Forearms (10)](#forearms) | [Full body (142)](#full-body) | [Glutes (173)](#glutes) | [Hamstrings (54)](#hamstrings) | [Hips (25)](#hips) | [Legs (191)](#legs) | [Neck (13)](#neck) | [Quads (150)](#quads) | [Shoulders (201)](#shoulders) | [Triceps (72)](#triceps)
 
 
 ## Arms
@@ -1355,6 +1355,7 @@ Every exercise in the [Your Move Exercise API](https://ymove.app/exercise-api), 
 | Kettlebell Good Morning | Kettlebell |
 | Kettlebell Romanian Deadlift | Kettlebell |
 | Kettlebell Single Leg Deadlift | Kettlebell |
+| Lying Cable Leg Curl | Cable |
 | Lying Leg Curl | Machine |
 | Plow pose | Bodyweight |
 | Pyramid pose (left) | Bodyweight |
@@ -1529,7 +1530,6 @@ Every exercise in the [Your Move Exercise API](https://ymove.app/exercise-api), 
 | Legs Up the Wall | Wall |
 | Legs Up the Wall Butterfly | Wall |
 | Lunge with Rotation | Bodyweight |
-| Lying Cable Leg Curl | Cable |
 | Lying Hamstring Stretch | Mat |
 | Lying Sciatic Nerve Glide | Mat |
 | Mini Band Ankle Eversion | Mini band |
