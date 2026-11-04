@@ -73,8 +73,9 @@ Full reference with parameters and response examples: [ymove.app/exercise-api/do
 
 ## Exercise library
 
-- **[Top 100 exercises](TOP-100.md)**: the exercises developers request most, with portrait thumbnails.
+- **[Top 100 exercises](TOP-100.md)**: the exercises developers request most, with portrait thumbnails and body maps.
 - **[Full exercise list](EXERCISES.md)**: every exercise, grouped by muscle group.
+- **[Body maps](body-maps)**: an SVG of the muscles worked for every exercise (dark = primary, light = secondary), the same drawing as the `/exercises/{id}/body-map` endpoint.
 
 ## 25 free exercise videos
 
